@@ -4,8 +4,8 @@
     <head>
         <link rel="stylesheet" href="table.css"/>
         <body>  
-            <h1> Ilhan Nor Abdullahi</h1>
-            <h2> ID: 0017</h2>
+            <h1> Sahra Abdi asiis Mohamed</h1>
+            <h2> ID: 0034</h2>
             <table border="25">
                 <tr>
                     <th>Maadada </th>
@@ -16,24 +16,24 @@
                 
                     <td> FIRST AID</td>
                    
-                    <td> 92
-                        <td>  A
+                    <td> Lmaha hayo
+                        <td>  z
                         <td> CAAFIMAAD</td>
                     </td>
                 
             
                 <tr>
                     <td> CDC </td>
-                    <td>  61
-                        <td> D  
+                    <td>  Lmaha hayo
+                        <td> z  
                     </td>
                     <td> CAAFIMAAD
                     </td>
                 
                 <tr>               
                     <td> ANATOMY </td>
-                    <td>90 
-                        <td> A
+                    <td>Lmaha hayo 
+                        <td> z
                     </td>
                     <td> CAAFIMAAD
                     </td>
@@ -41,23 +41,23 @@
                
                 <tr>
                         <td>PHYSIOLOGY </td>
-                        <td>95</td>
-                        <td> A+
+                        <td>Lmaha hayo</td>
+                        <td> z
                         <td> CAAFIMAAD
                         </td>
                     
                     <tr>
                         <td> PHARMACOLOGY</td>
-                        <td>96</td>
-                        <td> A+
+                        <td>Lmaha hayo</td>
+                        <td> z
                         <td> CAAFIMAAD
                         </td>
                 
                     
                     <tr>
                             <td> NUTRITION</td>
-                            <td>100</td>
-                            <td> A+
+                            <td>Lmaha hayo</td>
+                            <td> z
                             <td> CAAFIMAAD
                             </td> 
                             
@@ -74,8 +74,8 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> 100
-                        <td>  A+
+                    <td> Lmaha hayo
+                        <td>  Z
                         <td> COMPUTER</td>
                     </td>
                 
