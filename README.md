@@ -16,8 +16,8 @@
                 
                     <td> FIRST AID</td>
                    
-                    <td> Lmaha hayo
-                        <td>  z
+                    <td> 90
+                        <td>  A
                         <td> CAAFIMAAD</td>
                     </td>
                 
@@ -74,8 +74,8 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> Lmaha hayo
-                        <td>  Z
+                    <td> 82
+                        <td>  B
                         <td> COMPUTER</td>
                     </td>
                 
